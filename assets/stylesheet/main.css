@@ -46,7 +46,8 @@ li {
 }
 
 .circle {
-  margin-left: 100px;
+  float: left;
+  margin-left: 150px;
   display: inline-block;
   background-color: green;
   width: 150px;
@@ -58,7 +59,7 @@ li {
 
 .square {
   float: center;
-  margin-left: 300px;
+  margin-left: 295px;
   display: inline-block;
   background-color: purple;
   width: 150px;
@@ -68,7 +69,7 @@ li {
 
 .rabbit {
   float: right;
-  margin-right: 
+  margin-right: 150px;
   display: inline-block;
   width: 150px;
   height: 150px;
