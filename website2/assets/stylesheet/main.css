@@ -1,0 +1,30 @@
+body {
+  background-color: gray;
+}
+
+hr {
+  color: white;
+}
+
+h3 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  border: 1px dashed black;
+}
+
+.about {
+  display: inline-block;
+  border-right: 5px solid black
+  
+}
+
+.content {
+  text-align: center;
+}
